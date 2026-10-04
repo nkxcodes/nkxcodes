@@ -1,10 +1,15 @@
-Hi, I'm Nitesh.
+# Hi, I'm Nitesh
 
-I'm learning Python and Data Analysis, with a focus on building a strong foundation and solving problems through practice.
+I'm learning **Python and Data Analysis**, with a focus on building a strong foundation, solving problems, and turning what I learn into practical projects.
 
-Currently working with:
-Python · Pandas · NumPy · SQL · Linux
+### Currently working with
 
-I use GitHub to keep my learning, experiments, and projects organized.
+**Python** · **Pandas** · **NumPy** · **SQL** · **Linux**
 
-Learning → Building → Improving
+### What you'll find here
+
+Learning notes, experiments, practice, and projects as I improve my programming and data analysis skills.
+
+<br>
+
+**Learning → Building → Improving**
