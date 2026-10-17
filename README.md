@@ -1,6 +1,6 @@
 # Hi, I'm Nitesh
 
-I'm learning **Python and Data Analysis**, with a focus on building a strong foundation, solving problems, and turning what I learn into practical projects.
+I'm learning **Python and Data Analysis**, focusing on building strong fundamentals, solving problems, and applying what I learn through practical projects.
 
 ### Currently working with
 
@@ -8,8 +8,6 @@ I'm learning **Python and Data Analysis**, with a focus on building a strong fou
 
 ### What you'll find here
 
-Learning notes, experiments, practice, and projects as I improve my programming and data analysis skills.
-
-<br>
+Learning notes, experiments, practice, and projects documenting my progress in programming and data analysis.
 
 **Learning → Building → Improving**
