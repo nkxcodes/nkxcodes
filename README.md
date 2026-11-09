@@ -4,7 +4,7 @@ I'm learning **Python and Data Analysis**, focusing on building strong fundament
 
 ### Currently working with
 
-**Python** · **Pandas** · **NumPy** · **SQL** · **Linux**
+**Python** · **Pandas** · **NumPy** · **SQL**
 
 ### What you'll find here
 
